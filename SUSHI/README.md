@@ -13,7 +13,7 @@
   <h3 align="center">Sushi Website</h3>
 
    <div align="center">
-     Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/@lelixn/videos" target="_blank"><b>Lelien Panda</b></a> YouTube. Join the KAI family!
+     Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/@lelixn-ui/videos" target="_blank"><b>Lelien Panda</b></a> YouTube. Join the KAI family!
     </div>
 </div>
 
@@ -29,7 +29,7 @@
 
 ## 🚨 Tutorial
 
-This repository contains the code corresponding to an in-depth tutorial available on our YouTube channel, <a href="https://www.youtube.com/@lelinofc_/videos" target="_blank"><b> Lelien Panda</b></a>. 
+This repository contains the code corresponding to an in-depth tutorial available on our YouTube channel, <a href="https://www.youtube.com/@lelixn-ui/videos" target="_blank"><b> Lelien Panda</b></a>. 
 
 
 
